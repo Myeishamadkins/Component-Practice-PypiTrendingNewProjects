@@ -1,0 +1,65 @@
+html {
+    background-color: rgb(236, 236, 236);
+}
+.header {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.sub-header {
+    font-family: ;
+    font-size: ;
+}
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #424242;
+}
+
+.left,
+.right {
+    width: 80%;
+    margin: auto;
+}
+
+.background {
+    display: flex;
+}
+
+.right,
+.left {
+    padding: 2em;
+    width: 50%;
+}
+
+a {
+    font-size: 1.2em;
+    font-weight: 500;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.tile {
+    background-color: white;
+    margin: 0.5rem;
+    padding: 1rem;
+    box-shadow: 2px 2px grey;
+}
+.version-name {
+    color: rgb(0, 77, 122);
+}
+.version-number {
+    color: rgb(70, 70, 70);
+}
+a {
+    text-decoration: none;
+}
+.box {
+    height: 15;
+    width: 15;
+    margin: 3px;
+}
+.tile {
+    display: flex;
+}
